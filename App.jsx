@@ -1,12 +1,12 @@
 import React from 'react';
-import {Text} from 'react-native';
 import { Provider } from "react-redux";
 import {store} from './src/store';
+import StackNavigator from './src/navigator/StackNavigator';
 
 function App() {
   return (
     <Provider store={store} >
-      <Text>Rick & Morty</Text>
+      <StackNavigator />
     </Provider>
   );
 }
