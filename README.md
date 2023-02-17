@@ -43,4 +43,13 @@ To run this project, you will need to add the following environment variables to
 
 `API_URL` - Rick & Mortar API.
 
+running app :
+
+![Captura de pantalla 2023-02-17 060400](https://user-images.githubusercontent.com/55299077/219601287-4c184a82-6d01-45db-a3cd-20973cf6cdf7.png)
+
+![Captura de pantalla 2023-02-17 060517](https://user-images.githubusercontent.com/55299077/219601355-af6c2dc1-5ad0-4842-9cba-06549ef782ed.png)
+
+![Captura de pantalla_20230217_060550](https://user-images.githubusercontent.com/55299077/219601394-4a297522-c483-4e44-8315-fcccc45d12f5.png)
+
+
 
